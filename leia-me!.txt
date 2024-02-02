@@ -1,0 +1,14 @@
+Para abrir basta clicar com o botão direito no "Starfinder.por" e clicar em "Executar em modo Gráfico"
+
+------------------------------------------
+Tutorial do jogo:
+
+setas para se mover, espaço para atirar!
+------------------------------------------
+
+Caso seu jogo esteja MUITO rápido, provavelmente devido ao SSD, vá nas configurações do jogo e ligue o delay entre frames
+
+Bom jogo!
+^^
+
+
